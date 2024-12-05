@@ -23,7 +23,7 @@ int main(){
     cout << "Fahsai: So....which day are you free to go with me?" << endl;
     cout << name << ": ";
     getline(cin, day);
-    cout << "Fahsai: " << day << "....that is OK!!! I'm looking forward to watching" << movie << " with you." << endl;
+    cout << "Fahsai: " << day << "....that is OK!!! I'm looking forward to watching " << movie << " with you." << endl;
     cout << name << ": " ;
     getline(cin, joke);
     cout << "Fahsai: 555+ see you " << day << ". Bye Bye " << "\\(^ ^)/";
